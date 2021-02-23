@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon Feb 22 19:32:34 BRT 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0177-cbdf-71ac-000002327218 
+Tue Feb 23 12:53:43 BRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0177-cf98-a2dd-000002fb0238 
 on database directory /home/jane/Desktop/Github/IBM-Learning-Path-Spark/01-Fundamentals-of-Scalable-DataScience/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
 Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
